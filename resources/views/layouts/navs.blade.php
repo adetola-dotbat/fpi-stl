@@ -18,14 +18,14 @@
         href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&amp;display=swap"
         rel="stylesheet">
     <!-- include the site bootstrap stylesheet -->
-    <link rel="stylesheet" href="{{ asset('speech/css/bootstrap.css') }}">
+    <link rel="stylesheet" href="speech/css/bootstrap.css">
     <!-- include the site stylesheet -->
-    <link rel="stylesheet" href="{{ asset('speech/style.css') }}">
+    <link rel="stylesheet" href="speech/style.css">
     <!-- include theme color setting stylesheet -->
-    <link rel="stylesheet" href="{{ asset('speech/css/colors.css') }}">
+    <link rel="stylesheet" href="speech/css/colors.css">
     <!-- include the site responsive stylesheet -->
-    <link rel="stylesheet" href="{{ asset('speech/css/responsive.css') }}">
-    <link rel="stylesheet" href="{{ asset('speech/css/speech.css') }}">
+    <link rel="stylesheet" href="speech/css/responsive.css">
+    <link rel="stylesheet" href="speech/css/speech.css">
 
 </head>
 
