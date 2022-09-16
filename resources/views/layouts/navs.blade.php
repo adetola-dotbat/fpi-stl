@@ -33,18 +33,18 @@
     @yield('content')
 
     <!-- include jQuery library -->
-    <script src="{{ asset('speech/js/jquery-3.4.1.min.js') }}"></script>
+    <script src="speech/js/jquery-3.4.1.min.js"></script>
     <!-- include bootstrap popper JavaScript -->
-    <script src="{{ asset('speech/js/popper.min.js') }}"></script>
+    <script src="speech/js/popper.min.js"></script>
     <!-- include bootstrap JavaScript -->
-    <script src="{{ asset('speech/js/bootstrap.min.js') }}"></script>
+    <script src="speech/js/bootstrap.min.js"></script>
     <!-- include custom JavaScript -->
-    <script src="{{ asset('speech/js/jqueryCustom.js') }}"></script>
+    <script src="speech/js/jqueryCustom.js"></script>
 
     {{-- Speech me up --}}
-    <script src="{{ asset('speech/js/speech.js') }}"></script>
+    <script src="speech/js/speech.js"></script>
     <!-- include fontAwesome -->
-    <script src="{{ asset('speech/../../../kit.fontawesome.com/391f644c42.js') }}"></script>
+    <script src="speech/../../../kit.fontawesome.com/391f644c42.js"></script>
 </body>
 
 <!-- Mirrored from htmlbeans.com/html/asaas/?storefront=envato-elements by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 28 Aug 2022 05:20:25 GMT -->
