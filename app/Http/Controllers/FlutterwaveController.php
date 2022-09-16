@@ -79,4 +79,8 @@ class FlutterwaveController extends Controller
         // You can also redirect to your success page from here
 
     }
+
+    public function light(){
+        return 'marvelous light';
+    }
 }

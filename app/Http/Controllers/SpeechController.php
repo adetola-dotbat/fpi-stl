@@ -47,7 +47,7 @@ class SpeechController extends Controller
      */
     public function show()
     {
-            return view('speech.index');
+            return view('speech.index2');
 
     }
 
