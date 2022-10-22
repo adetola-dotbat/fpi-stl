@@ -13,8 +13,8 @@
                                 <!-- logo -->
                                 <div class="logo mt-1">
                                     <a href="javascript:void(0);">
-                                        <img src="{{ asset('speech/images/logoStyles.png') }}" class="img-fluid"
-                                            alt="Asaas">
+                                        <img style="height: 5rem" src="{{ asset('speech/images/fpi-logo.jpg') }}"
+                                            class="img-fluid" alt="Asaas">
                                     </a>
                                 </div>
                             </div>
@@ -441,16 +441,7 @@
                                             {{-- <span class="d-block btnText" id="voiceStart">Start Speaking</span> --}}
                                         </button>
 
-                                        {{-- <button
-                                            class="btn btn-success font-weight-normal text-capitalize hdBtn ml-md-3 ml-md-6 ml-lg-12 position-relative border-0 p-0"
-                                            data-hover="Finish Speaking" id="voiceStart">Finish Speaking
 
-                                        </button> --}}
-                                        {{-- <a href=""
-                                            class="btn btn-success font-weight-normal text-capitalize hdBtn ml-md-3 ml-md-6 ml-lg-12 position-relative border-0 p-0"
-                                            data-hover="Finish Speaking">
-                                            <span class="d-block btnText" id="voiceStart">Start </span>
-                                        </a> --}}
 
                                         <a href=""
                                             class="btn btn-success font-weight-normal text-capitalize hdBtn ml-md-3 ml-md-6 ml-lg-12 position-relative border-0 p-0"
@@ -458,10 +449,7 @@
                                             <span class="d-block btnText" id="voiceFinish">Stop Recording</span>
                                         </a>
                                     </div>
-                                    {{-- <div class="button-container">
-                                        <button id="voiceStart">Start Speaking</button>
-                                        <button id="voiceFinish">Finish Speaking</button>
-                                    </div> --}}
+
                                 </div>
 
                             </div>
@@ -598,7 +586,7 @@
                                             <h3 class="h5 mb-1">Intro</h3>
                                             <em class="d-block textEm">Perfect for Retail Business</em>
                                         </header>
-                                        <h4 class="h1 fontBase fwSemi h1Medium mb-1">$24</h4>
+                                        <h4 class="h1 fontBase fwSemi h1Medium mb-1"> &#8358;2400</h4>
                                         <em class="d-block textEm">Billed Monthly</em>
                                         <!-- tickList -->
                                         <ul class="list-unstyled tickList mt-7">
@@ -635,7 +623,7 @@
                                             <h3 class="h5 mb-1">Basic</h3>
                                             <em class="d-block textEm">Small Business Perfect Pack</em>
                                         </header>
-                                        <h4 class="h1 fontBase fwSemi h1Medium mb-1">$52</h4>
+                                        <h4 class="h1 fontBase fwSemi h1Medium mb-1">&#8358;5200</h4>
                                         <em class="d-block textEm">Billed Monthly</em>
                                         <!-- tickList -->
                                         <ul class="list-unstyled tickList mt-7">
@@ -672,7 +660,7 @@
                                             <h3 class="h5 mb-1">Ultra</h3>
                                             <em class="d-block textEm">Enterprice and Corporate</em>
                                         </header>
-                                        <h4 class="h1 fontBase fwSemi h1Medium mb-1">$99</h4>
+                                        <h4 class="h1 fontBase fwSemi h1Medium mb-1">&#8358;9900</h4>
                                         <em class="d-block textEm">Billed Monthly</em>
                                         <!-- tickList -->
                                         <ul class="list-unstyled tickList mt-7">
